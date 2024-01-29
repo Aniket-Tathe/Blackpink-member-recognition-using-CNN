@@ -62,7 +62,13 @@ The local blackpink.py after that was trained for 75 epochs locally and it gave 
 After training, the model can be loaded and used to predict Blackpink members in new test images. Some sample predictions are shown on test images from the `testing_blackpink` folder.
 The output includes the predicted member, confidence scores per member, and index of predicted member. The test image is also displayed using matplotlib.
 It was observed that since `jennie's` data was twice i.e 2000 images than that of other members the model was overfitting and misclassifiying other members as `jennie`. This can be fixed
-by adding more images of `jisoo`,`Rosé` and `lisa` and retraining the model.
+by adding more images of `jisoo`,`Rosé` and `lisa` and retraining the model and hyperparamerter tuning
+
+This was my first deep learning project after gaining some knowledge of deep learning and got to know about many things like how Conv2D works , 
+what happens when we tweak the parameter like  `tf.keras.layers.Conv2D(64,(3,3),activation='relu')`,
+`tf.keras.layers.MaxPooling2D(2,2)`, `tf.keras.layers.Dense(512,activation='relu')` and got to learn a lot from this project. 
+How does learning rate affect the model, how changing Conv2D parameters affect the results, SGD, activation function (relu,tanh) ,etc. How each parameter affects
+the model output and most importantly what mistakes I made while using Conv2D and Dense layer and how to use those correctly and other hyperparameter tuning.
 
 ## Usage
 
