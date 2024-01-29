@@ -1,5 +1,3 @@
- Here is an updated README with more training details:
-
 # Blackpink-member-recognition-using-CNN
 
 This project trains a convolutional neural network to classify images of the members of Blackpink - `Jennie`, `Rosé`, `Lisa` and `Jisoo`.
