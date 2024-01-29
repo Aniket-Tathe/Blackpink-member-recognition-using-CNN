@@ -43,7 +43,7 @@ The model is a convolutional neural network built with Keras using the Tensorflo
 
 ## Training
 
-The model was trained for 25 epochs with the following parameters:
+The model was trained for 75 epochs with the following parameters:
 
 - Batch size: 32
 - Learning rate: 0.01 
@@ -54,7 +54,7 @@ The model was trained for 25 epochs with the following parameters:
 Early stopping was used to cancel training if accuracy reached 95%.
 
 The trained model achieved 83% percent accuracy while training for 75 epochs and is saved to `blackpink_trained_model.h5`.
-Note: The notebooks and the code deployed shows 25 epoch because for google colab and local testing I had only trained it for 25 epochs for testing the pipeline.
+Note: The notebooks and the code deployed shows 25 epoch because for google colab and local testing at that time had only trained it for 25 epochs for testing the pipeline.
 The local blackpink.py after that was trained for 75 epochs locally and it gave accuracy of around 83%
 
 ## Testing
