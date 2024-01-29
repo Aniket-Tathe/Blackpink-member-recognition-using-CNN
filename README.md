@@ -5,10 +5,10 @@
 This project trains a convolutional neural network to classify images of the members of Blackpink - `Jennie`, `Rosé`, `Lisa` and `Jisoo`.
 
 <div style="display:flex; justify-content:space-between;">
-    <img src="https://github.com/Aniket-Tathe/Blackpink-member-recognition-using-CNN/blob/main/testing_blackpink/bffea528c314dea560e96983f2446ce7.jpg" width="230" height="235">
-    <img src="https://github.com/Aniket-Tathe/Blackpink-member-recognition-using-CNN/blob/main/testing_blackpink/E_hdX57XEAY5sOc.jpg" width="230" height="235">
-    <img src="https://github.com/Aniket-Tathe/Blackpink-member-recognition-using-CNN/blob/main/testing_blackpink/Lalisa_170.jpg" width="230" height="235">
-    <img src="https://github.com/Aniket-Tathe/Blackpink-member-recognition-using-CNN/blob/main/testing_blackpink/jisoo_0.jpg" width="230" height="235">
+    <img src="https://github.com/Aniket-Tathe/Blackpink-member-recognition-using-CNN/blob/main/testing_blackpink/bffea528c314dea560e96983f2446ce7.jpg" width="200" height="200">
+    <img src="https://github.com/Aniket-Tathe/Blackpink-member-recognition-using-CNN/blob/main/testing_blackpink/E_hdX57XEAY5sOc.jpg" width="200" height="200">
+    <img src="https://github.com/Aniket-Tathe/Blackpink-member-recognition-using-CNN/blob/main/testing_blackpink/Lalisa_170.jpg" width="200" height="200">
+    <img src="https://github.com/Aniket-Tathe/Blackpink-member-recognition-using-CNN/blob/main/testing_blackpink/jisoo_0.jpg" width="200" height="200">
 </div>
 
 
