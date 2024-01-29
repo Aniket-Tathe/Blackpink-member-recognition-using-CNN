@@ -15,7 +15,7 @@ This project trains a convolutional neural network to classify images of the mem
 
 The repository contains two files:
 - blackpink.py ( which can be run locally)
-- blackpinkcolab.py (which can be run on google colab)
+- blackpinkcolab.py (which can run on google colab)
 
 ## Data
 
